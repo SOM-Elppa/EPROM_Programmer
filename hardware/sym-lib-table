@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Programador-EPROM-rescue)(type Legacy)(uri "${KIPRJMOD}/Programador EPROM-rescue.lib")(options "")(descr ""))
+)
