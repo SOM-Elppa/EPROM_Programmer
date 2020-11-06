@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/ELPPA">
+        <file>reload.png</file>
+        <file>serialport.png</file>
+        <file>semrojo_icon.png</file>
+        <file>semverde_icon.png</file>
+        <file>EPROM.png</file>
+    </qresource>
+</RCC>
